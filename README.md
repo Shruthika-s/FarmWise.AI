@@ -1,7 +1,7 @@
-# *FarmWise.AI*  
+# FarmWise.AI
 *Empowering Smallholder Farmers with AI-Driven Insights*  
 
-## *Table of Contents*  
+## Table of Contents  
 - [Introduction](#introduction)  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
@@ -12,10 +12,10 @@
 - [License](#license)  
 - [Contact](#contact)  
 
-## *Introduction*  
+## Introduction  
 FarmWise.AI is an *AI-powered smart farming platform* designed to help *smallholder farmers* optimize crop management, resource usage, and overall productivity. With *real-time AI insights*, interactive tools, and multilingual support, the platform ensures farmers make data-driven decisions to improve yields and reduce losses.  
 
-## *Features*  
+## Features  
 
 ### *🌱 AI-Driven Pest & Disease Detection (Image-Based Diagnosis)*  
 - Farmers can *upload photos* of their crops through a mobile-friendly UI.  
@@ -62,7 +62,7 @@ FarmWise.AI is an *AI-powered smart farming platform* designed to help *smallhol
 
 ---
 
-## *Tech Stack*  
+## Tech Stack  
 
 ### *Frontend (User Interface for Farmers)*  
 - *Framework:* React  
@@ -90,7 +90,7 @@ FarmWise.AI is an *AI-powered smart farming platform* designed to help *smallhol
 
 ---
 
-## *Machine Learning Models*  
+## Machine Learning Models  
 
 ### *1️⃣ Pest & Disease Detection (YOLO v8)*  
 - Uses *YOLO v8 (You Only Look Once)* for *real-time image detection*.  
@@ -114,7 +114,7 @@ FarmWise.AI is an *AI-powered smart farming platform* designed to help *smallhol
 
 ---
 
-## *Installation*  
+## Installation  
 
 To set up the project locally:  
 
