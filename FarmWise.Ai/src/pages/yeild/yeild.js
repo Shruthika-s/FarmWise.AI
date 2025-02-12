@@ -898,7 +898,7 @@ const CropYieldPrediction = () => {
   async function callGeminiAPI(cropYield) {
     try {
       const response = await fetch(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDaOJLsirOjK9yP5QidcySWcReyLSza6zo",
+        "",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -929,7 +929,7 @@ const CropYieldPrediction = () => {
   async function translateText(text, targetLanguage) {
     try {
       const response = await fetch(
-        "https://translation.googleapis.com/language/translate/v2?key=AIzaSyAWqg11gQCYgaJrCXCBl9ph4OQiVcHksSs",
+        "",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
